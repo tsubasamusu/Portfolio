@@ -23,7 +23,7 @@ function GPT(prompt, myColumn, myRow, targetCellValue = null) {
 
     const HEADERS =
     {
-        Authorization: "Bearer " + "sk-xxxxxx"
+        Authorization: "Bearer " + ""
     };
 
     const OPTIONS =
